@@ -114,6 +114,8 @@ public class MyProgram
             }
             System.out.println();
             
+            input.close();
+            
     }
         
     }
